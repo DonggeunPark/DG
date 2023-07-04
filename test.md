@@ -10,3 +10,8 @@
 ![eq_1](https://user-images.githubusercontent.com/131414228/233510814-6f51a11c-f251-4985-9221-39dc6e36b18e.jpeg)
 ![eq_2_](https://user-images.githubusercontent.com/131414228/233510818-65a7c382-1538-400a-bc42-3e5890d03245.jpeg)
 ![eq_3](https://user-images.githubusercontent.com/131414228/233510820-3a63db8e-ff0b-4f6e-bb34-d87f7d8bede5.jpeg)
+![example 1](https://github.com/DonggeunPark/DG/assets/131414228/f7a57a3a-22c3-43a9-9f49-2b084a04bc7b)
+![example 2](https://github.com/DonggeunPark/DG/assets/131414228/bf5e1a1b-3f91-422c-9c7f-69370f849fba)
+![example 3](https://github.com/DonggeunPark/DG/assets/131414228/b5643c8b-b708-4dea-9770-9c8a933c9556)
+![example 5](https://github.com/DonggeunPark/DG/assets/131414228/112a0c45-1b42-42e8-b0ed-0b5b3a2ded44)
+![example 6](https://github.com/DonggeunPark/DG/assets/131414228/912be9d7-ca80-4004-a279-566336013b15)
