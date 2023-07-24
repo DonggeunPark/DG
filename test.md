@@ -17,6 +17,7 @@
 ![example 6](https://github.com/DonggeunPark/DG/assets/131414228/912be9d7-ca80-4004-a279-566336013b15)
 ![f](https://github.com/DonggeunPark/DG/assets/131414228/0ce5ab6e-81ea-4704-b8f3-2ca75db197f0)
 
+![2](https://github.com/DonggeunPark/DG/assets/131414228/30c2eb58-ac88-49f1-99e2-e8e2f0eacd41)
 
 ![3](https://github.com/DonggeunPark/DG/assets/131414228/d44ef437-99cf-4862-a286-c5efb5f98abd)
 ![Uploading 2.png…]()
