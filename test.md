@@ -16,6 +16,7 @@
 ![example 5](https://github.com/DonggeunPark/DG/assets/131414228/112a0c45-1b42-42e8-b0ed-0b5b3a2ded44)
 ![example 6](https://github.com/DonggeunPark/DG/assets/131414228/912be9d7-ca80-4004-a279-566336013b15)
 ![f](https://github.com/DonggeunPark/DG/assets/131414228/0ce5ab6e-81ea-4704-b8f3-2ca75db197f0)
+<img width="626" alt="3-intro-deep-neural-networks" src="https://github.com/DonggeunPark/DG/assets/131414228/475e8146-c7da-4a2f-9f37-0758e4bc7d35">
 
 ![2](https://github.com/DonggeunPark/DG/assets/131414228/30c2eb58-ac88-49f1-99e2-e8e2f0eacd41)
 
