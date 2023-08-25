@@ -16,9 +16,27 @@
 ![example 5](https://github.com/DonggeunPark/DG/assets/131414228/112a0c45-1b42-42e8-b0ed-0b5b3a2ded44)
 ![example 6](https://github.com/DonggeunPark/DG/assets/131414228/912be9d7-ca80-4004-a279-566336013b15)
 ![f](https://github.com/DonggeunPark/DG/assets/131414228/0ce5ab6e-81ea-4704-b8f3-2ca75db197f0)
-<img width="626" alt="3-intro-deep-neural-networks" src="https://github.com/DonggeunPark/DG/assets/131414228/475e8146-c7da-4a2f-9f37-0758e4bc7d35">
 
 ![2](https://github.com/DonggeunPark/DG/assets/131414228/30c2eb58-ac88-49f1-99e2-e8e2f0eacd41)
+<img width="626" alt="3-intro-deep-neural-networks" src="https://github.com/DonggeunPark/DG/assets/131414228/5dd0b12a-9b94-40fd-aa6a-107720d92481">
+![슬라이드1](https://github.com/DonggeunPark/DG/assets/131414228/d5c1e36b-f47c-438e-8072-7450eba2efdc)
+![슬라이드3](https://github.com/DonggeunPark/DG/assets/131414228/130e0906-b93b-424f-b071-227be359524c)
+![슬라이드2](https://github.com/DonggeunPark/DG/assets/131414228/7d563521-c0b7-4fdd-8c01-aba5f33747c4)
+![슬라이드5](https://github.com/DonggeunPark/DG/assets/131414228/0acbfc74-c6dc-4e5f-b63c-027705932fff)
+![슬라이드4](https://github.com/DonggeunPark/DG/assets/131414228/ef297fa8-a90f-43a4-8647-e6a6738ab660)
+![슬라이드4](https://github.com/DonggeunPark/DG/assets/131414228/992cb25e-9ced-4fe1-8cfd-af4e11c67dff)
+![슬라이드5](https://github.com/DonggeunPark/DG/assets/131414228/4ed8770a-1c44-44f9-bf91-26ffe6d182ca)
+
+
+![슬라이드12](https://github.com/DonggeunPark/DG/assets/131414228/ae32225a-6728-40b1-a186-3d9cf6e19595)
+![슬라이드11](https://github.com/DonggeunPark/DG/assets/131414228/babb0181-0427-46c2-a8c6-3aa258429cf2)
+![슬라이드10](https://github.com/DonggeunPark/DG/assets/131414228/010b477c-c756-4ca8-9b9b-abb4b8d795f6)
+![슬라이드9](https://github.com/DonggeunPark/DG/assets/131414228/52df756a-50e3-420b-a872-920a2d9cb176)
+![슬라이드8](https://github.com/DonggeunPark/DG/assets/131414228/53cfc644-dc2c-4603-bb79-31ac3a6c85c2)
+![pso9](https://github.com/DonggeunPark/DG/assets/131414228/50ff7e4f-2b6a-40a7-82e1-281f27cd4fd7)
+![슬라이드13](https://github.com/DonggeunPark/DG/assets/131414228/8ad6948a-e0f9-49bc-b0ef-673be982bb27)
+![슬라이드13](https://github.com/DonggeunPark/DG/assets/131414228/69fdcf9c-1594-4c70-add9-6a4f434d6f64)
+
 
 ![3](https://github.com/DonggeunPark/DG/assets/131414228/d44ef437-99cf-4862-a286-c5efb5f98abd)
 ![Uploading 2.png…]()
