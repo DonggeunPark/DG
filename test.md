@@ -5,6 +5,15 @@
 ![figure_5](https://github.com/DonggeunPark/DG/assets/131414228/0e2f7407-cda0-4060-9ebc-5c0366f59b81)
 ![figure_6](https://github.com/DonggeunPark/DG/assets/131414228/13ea60b5-fc7b-4ffd-a76e-40bed4da6709)
 ![figure__](https://github.com/DonggeunPark/DG/assets/131414228/3618f51c-bcd1-4ee2-a5ec-73154a81dbab)
+![progra](https://github.com/DonggeunPark/DG/assets/131414228/8ebdbd34-ec22-4b79-811c-8a3d8839ef08)
+![progra_libr](https://github.com/DonggeunPark/DG/assets/131414228/ad97a19b-8f23-4918-9bf2-cfba56ff6c96)
+![index](https://github.com/DonggeunPark/DG/assets/131414228/a8dd0a1f-b389-4dc4-b525-e0af952e0f92)
+![image](https://github.com/DonggeunPark/DG/assets/131414228/f8391251-2a94-4349-bf1a-6bbfd19ef5be)
+![image](https://github.com/DonggeunPark/DG/assets/131414228/f2d9d62b-e698-43e0-af7d-b6ad7a9b9186)
+![1_47skUygd3tWf3yB9A10QHg](https://github.com/DonggeunPark/DG/assets/131414228/b12f8896-1e58-49dc-84db-c50535cc3dfd)
+![image](https://github.com/DonggeunPark/DG/assets/131414228/2be5f7d2-ce15-458e-9c78-544dd933c75e)
+![optim](https://github.com/DonggeunPark/DG/assets/131414228/72841576-8912-492c-8e24-1dd545ddfdf5)
+![optima_pro](https://github.com/DonggeunPark/DG/assets/131414228/a477b89b-bcc1-4dcd-89af-d99e9e50f47a)
 
 
 ![슬라이드3](https://github.com/DonggeunPark/DG/assets/131414228/11ca715a-1c08-4a0e-ac58-659b5b0d723f)
