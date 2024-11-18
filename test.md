@@ -17,6 +17,7 @@
 
 ![coverfigure](https://github.com/DonggeunPark/DG/assets/131414228/b8b30fe0-185f-45bb-bc21-7933fa3a41fe)
 
+![CoverLetterFigure1](https://github.com/user-attachments/assets/9e175b01-ad90-41c3-9a13-200c75873704)
 
 https://github.com/DonggeunPark/DG/assets/131414228/fdb0a542-42fc-47cf-b28c-0c8bb64927d2
 
