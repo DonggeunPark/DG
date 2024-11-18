@@ -14,6 +14,7 @@
 ![image](https://github.com/DonggeunPark/DG/assets/131414228/2be5f7d2-ce15-458e-9c78-544dd933c75e)
 ![optim](https://github.com/DonggeunPark/DG/assets/131414228/72841576-8912-492c-8e24-1dd545ddfdf5)
 ![optima_pro](https://github.com/DonggeunPark/DG/assets/131414228/a477b89b-bcc1-4dcd-89af-d99e9e50f47a)
+![CoverLetterF](https://github.com/user-attachments/assets/8d87ca89-d827-4ccf-ac5b-1c7a75bff6f9)
 
 ![coverfigure](https://github.com/DonggeunPark/DG/assets/131414228/b8b30fe0-185f-45bb-bc21-7933fa3a41fe)
 
